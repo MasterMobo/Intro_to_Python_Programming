@@ -20,7 +20,7 @@ Python is a powerful and versatile programming language that is widely used for 
 
 To begin your journey with Python programming, follow these simple steps:
 
-1. **Clone the Repository:** Start by cloning this repository to your local machine. You can do this by running the following command in your terminal or command prompt (make sure to have Git installed first):
+1. **Clone the Repository:** Start by cloning this repository to your local machine. You can do this by running the following command in your terminal or command prompt (make sure to have [Git](https://git-scm.com) installed first):
 
     ```
     git clone https://github.com/MasterMobo/Intro_to_Python_Programming
